@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FindRide</string>
+    <string name="action_logout">Log Out</string>
+    <string name="start_ride">Start Ride</string>
+    <string name="fare">Fare:</string>
+    <string name="ride_details">Ride Details</string>
+    <string name="destination">Destination:</string>
+    <string name="location">Location:</string>
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="path">MapCordinates</string>
+    <string name="title_activity_end_session">Map</string>
+    <string name="title_activity_bus_map">Map</string>
+</resources>

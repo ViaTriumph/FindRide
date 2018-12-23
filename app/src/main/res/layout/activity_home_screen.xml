@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/a"
+    tools:context=".HomeScreenActivity">
+
+    <Button
+        android:id="@+id/carRide"
+        android:layout_width="229dp"
+        android:layout_height="77dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp"
+        android:background="@drawable/roundedbutton"
+        android:text="Car Ride"
+        android:textAllCaps="?android:attr/windowOverscan"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/busRide"
+        android:layout_width="229dp"
+        android:layout_height="77dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="269dp"
+        android:background="@drawable/roundedbutton"
+        android:text="Bus Ride"
+        android:textAllCaps="?android:attr/windowOverscan"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="22sp"
+        tools:text="Bus Ride" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="32dp"
+        app:srcCompat="@drawable/busimage" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="332dp"
+        android:layout_height="305dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="131dp"
+        app:srcCompat="@drawable/taxiimage" />
+
+</RelativeLayout>
