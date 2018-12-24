@@ -11,6 +11,7 @@ Needs a companion app DriverApp to receive and reply to requests.
 
 ## Screenshots
 <p float="left">
+  <img src="https://github.com/AvidTriumph/FindRide/blob/master/images/signIn.png" width="150" />
   <img src="https://github.com/AvidTriumph/FindRide/blob/master/images/1.png" width="150" />
   <img src="https://github.com/AvidTriumph/FindRide/blob/master/images/2a.png" width="150" />
   <img src="https://github.com/AvidTriumph/FindRide/blob/master/images/2b.png" width="150" /> 
